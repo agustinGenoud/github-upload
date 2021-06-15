@@ -18,7 +18,7 @@
 /*.Rcheck/
 
 # RStudio files
-.Rproj.user/
+swoosh.Rproj.user/
 
 # produced vignettes
 vignettes/*.html
